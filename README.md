@@ -1,12 +1,5 @@
 # DRISHTIYANA – Urban Intelligence Platform (Resume Brief for Claude)
 
-Paste everything below into Claude and ask it to write the "Projects" entry.
-
----
-
-## Prompt for Claude
-
-> I want to add this project to the Projects section of my resume. Write it as a project title, a one-line tech stack, and 3–4 impact-focused bullet points (start each with an action verb, ATS-friendly, no fluff). Use only the facts below. My role on the team was: **[FILL IN – e.g. "built the Edge AI pipeline" / "built the Admin Portal and backend APIs" / "full-stack + AI"]**.
 
 ## What it is
 - **Name:** DRISHTIYANA – Urban Intelligence Platform (Smart India Hackathon / SIH 2026 project, team project)
